@@ -110,7 +110,7 @@ else:
 ## Sample Input and Output
 ![OUTPUT](V1.png)
 
-![OUTPUT](v2.png)
+![OUTPUT](V2.png)
 
 ![OUTPUT](V3.png)
 
